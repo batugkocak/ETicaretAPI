@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ETicaretAPI.Persistence.Contexts;
 
-public class ETicaretAPIDbContex: DbContext
+public class ETicaretAPIDbContext: DbContext
 {
-    public ETicaretAPIDbContex(DbContextOptions options) : base(options)
+    public ETicaretAPIDbContext(DbContextOptions options) : base(options)
     {
         
     }

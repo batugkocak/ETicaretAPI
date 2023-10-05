@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace ETicaretAPI.Persistence.Migrations
 {
-    [DbContext(typeof(ETicaretAPIDbContex))]
+    [DbContext(typeof(ETicaretAPIDbContext))]
     partial class ETicaretAPIDbContexModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace ETicaretAPI.Persistence.Migrations
 {
-    [DbContext(typeof(ETicaretAPIDbContex))]
+    [DbContext(typeof(ETicaretAPIDbContext))]
     [Migration("20231004135620_Initial")]
     partial class Initial
     {
