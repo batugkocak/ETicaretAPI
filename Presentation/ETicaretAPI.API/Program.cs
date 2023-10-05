@@ -25,3 +25,8 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+
+//Çünkü her fonksiyonun içinde SaveChanges'ı çağırmak demek lüzumsuz yere her işlem sonunda bir transaction başlatmak demektir.
+//Haliyle işlemleri toplu olarak yapıp tek bir transaction içerisinde veritabanına yansıtabilmek için SaveChanges'ı farklı
+//bir fonksiyona almış bulunmaktayız

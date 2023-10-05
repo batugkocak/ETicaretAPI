@@ -23,6 +23,15 @@ public static class ServiceRegistration
         services.AddScoped<IProductWriteRepository, ProductWriteRepository>();
         
         
+        //Context Lifetime'ı default olarak Scoped'dır. 
+        //Scoped => Her request için oluşturulan nesne, iş bitiminde dispose edilir.
+        
+        //İlk örnekte yapılan hata, Get() işleminin dönüş tipinin void olmasıdır.
+        //AddRangeAsync çağırıldıktan sonra iş bittiği için nesnemiz, dispose edilir fakat
+        //SaveAsync de hemen ardından çağırıldığı için problem yaşanmaktadır.
+        
+        //Singleton yaptığımızda düzeliyordu çünkü nesneler asla dispose edilmiyordu.
+        
         // services.AddDbContext<ETicaretAPIDbContext>(options => options.UseMySQL(Configuration.ConnectionString), ServiceLifetime.Singleton);
         //
         // services.AddSingleton<ICustomerReadRepository, CustomerReadRepository>();
