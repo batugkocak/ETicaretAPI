@@ -2,7 +2,10 @@ using ETicaretAPI.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddPersisteneServices(); 
+builder.Services.AddPersisteneServices();
+
+builder.Services.AddCors(options => options.AddDefaultPolicy(policy => 
+    policy.WithOrigins("http://localhost:3000", "https://localhost:3000").AllowAnyHeader().AllowAnyOrigin()));
 
 builder.Services.AddControllers();
 
@@ -11,12 +14,13 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors();
 
 app.UseHttpsRedirection();
 

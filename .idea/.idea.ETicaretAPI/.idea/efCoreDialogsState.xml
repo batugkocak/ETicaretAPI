@@ -4,7 +4,7 @@
     <option name="keyValueStorage">
       <map>
         <entry key="Common:buildConfiguration" value="Debug" />
-        <entry key="Common:ddd81f8a-0c02-4831-bc12-96ddd7f101ff:dbContext" value="ETicaretAPI.Persistence.Contexts.ETicaretAPIDbContex" />
+        <entry key="Common:ddd81f8a-0c02-4831-bc12-96ddd7f101ff:dbContext" value="ETicaretAPI.Persistence.Contexts.ETicaretAPIDbContext" />
         <entry key="Common:noBuild" value="false" />
         <entry key="Common:outputFolder" value="Migrations" />
         <entry key="Common:useDefaultConnection" value="true" />
