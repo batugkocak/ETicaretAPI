@@ -9,6 +9,7 @@
       "ETicaretAPI.API/1.0.0": {
         "dependencies": {
           "ETicaretAPI.Application": "1.0.0",
+          "ETicaretAPI.Infrastructure": "1.0.0",
           "ETicaretAPI.Persistence": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "7.0.11",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.11",
@@ -2499,6 +2500,14 @@
           "ETicaretAPI.Domain.dll": {}
         }
       },
+      "ETicaretAPI.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ETicaretAPI.Application": "1.0.0"
+        },
+        "runtime": {
+          "ETicaretAPI.Infrastructure.dll": {}
+        }
+      },
       "ETicaretAPI.Persistence/1.0.0": {
         "dependencies": {
           "ETicaretAPI.Application": "1.0.0",
@@ -4122,6 +4131,11 @@
       "sha512": ""
     },
     "ETicaretAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ETicaretAPI.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
