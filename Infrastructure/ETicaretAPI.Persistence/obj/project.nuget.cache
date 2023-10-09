@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "J6FjB0bbPX8QYN9a4dRcvm41oWfk8fHOcTq0/zvGBs/UOc5Z02UPEgDMz5HX0TT2O1H4PnKte8rhwmO5zR9RRg==",
+  "dgSpecHash": "GGCqWFvUK/y2mLmuotLGRN3Qb2RHcKhzaMD3W6o/gfxLLLAR3aduJjW7mQE4Dso56AQTZKZ0Faqorr58Qk39Fg==",
   "success": true,
   "projectFilePath": "/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj",
   "expectedPackageFiles": [
+    "/Users/batugkocak/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
+    "/Users/batugkocak/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/batugkocak/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.7.1/fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
     "/Users/batugkocak/.nuget/packages/google.protobuf/3.21.9/google.protobuf.3.21.9.nupkg.sha512",
     "/Users/batugkocak/.nuget/packages/k4os.compression.lz4/1.3.5/k4os.compression.lz4.1.3.5.nupkg.sha512",
     "/Users/batugkocak/.nuget/packages/k4os.compression.lz4.streams/1.3.5/k4os.compression.lz4.streams.1.3.5.nupkg.sha512",

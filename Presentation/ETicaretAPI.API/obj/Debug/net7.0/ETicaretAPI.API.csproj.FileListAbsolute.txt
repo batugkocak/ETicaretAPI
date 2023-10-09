@@ -248,3 +248,6 @@
 /Users/batugkocak/projects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
 /Users/batugkocak/projects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
 /Users/batugkocak/projects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+/Users/batugkocak/projects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/FluentValidation.dll
+/Users/batugkocak/projects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/Users/batugkocak/projects/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll

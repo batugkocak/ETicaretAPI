@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YT+fdSahlv5Nc5QgPNPFQhfeUVFEc0cgO8PQTXUAgwNTHLN7FXYOfOmfjETRmoNCjzC5lowlONM/EtOuoN78XQ==",
+  "dgSpecHash": "3faUitjdtZUknBqc8UMvoo/i/jfhDI1bg0dTUmkx9YRhF3nBsZZfU1CT0i14VACt9OchieusW4CMLv7HohJx/Q==",
   "success": true,
   "projectFilePath": "/Users/batugkocak/projects/ETicaretAPI/Presentation/ETicaretAPI.API/ETicaretAPI.API.csproj",
   "expectedPackageFiles": [
+    "/Users/batugkocak/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
+    "/Users/batugkocak/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/batugkocak/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.7.1/fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
     "/Users/batugkocak/.nuget/packages/google.protobuf/3.21.9/google.protobuf.3.21.9.nupkg.sha512",
     "/Users/batugkocak/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/batugkocak/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

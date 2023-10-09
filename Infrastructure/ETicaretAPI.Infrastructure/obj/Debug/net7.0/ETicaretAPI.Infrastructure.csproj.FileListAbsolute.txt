@@ -1,0 +1,17 @@
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/bin/Debug/net7.0/ETicaretAPI.Infrastructure.deps.json
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/bin/Debug/net7.0/ETicaretAPI.Infrastructure.dll
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/bin/Debug/net7.0/ETicaretAPI.Infrastructure.pdb
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/bin/Debug/net7.0/ETicaretAPI.Application.dll
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/bin/Debug/net7.0/ETicaretAPI.Domain.dll
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/bin/Debug/net7.0/ETicaretAPI.Application.pdb
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/bin/Debug/net7.0/ETicaretAPI.Domain.pdb
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/Debug/net7.0/ETicaretAPI.Infrastructure.csproj.AssemblyReference.cache
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/Debug/net7.0/ETicaretAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/Debug/net7.0/ETicaretAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/Debug/net7.0/ETicaretAPI.Infrastructure.AssemblyInfo.cs
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/Debug/net7.0/ETicaretAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/Debug/net7.0/ETicaretAPI.Infrastructure.csproj.CopyComplete
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/Debug/net7.0/ETicaretAPI.Infrastructure.dll
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/Debug/net7.0/refint/ETicaretAPI.Infrastructure.dll
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/Debug/net7.0/ETicaretAPI.Infrastructure.pdb
+/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/Debug/net7.0/ref/ETicaretAPI.Infrastructure.dll

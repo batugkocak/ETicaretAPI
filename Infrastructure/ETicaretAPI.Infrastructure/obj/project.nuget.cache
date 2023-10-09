@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pFu4TU9ihaUxx3GL0Q7Fy3OI4acqUr5BOKWO2BfUayyj9QNvAhsiK206x7tsWjCtxyqVTreJz9/JGABjnQJJDQ==",
+  "dgSpecHash": "mqw+qN+rEz7J+2QF8YSNYK+yMR7DNDiwjhkpwASjhrpYHWzLH/9lsrt2Ve/+Vd8J2/TdS9TUbOh1q/UrHrkDBA==",
   "success": true,
   "projectFilePath": "/Users/batugkocak/projects/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/ETicaretAPI.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "/Users/batugkocak/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
+    "/Users/batugkocak/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/batugkocak/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.7.1/fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
     "/Users/batugkocak/.nuget/packages/microsoft.entityframeworkcore/7.0.11/microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "/Users/batugkocak/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.11/microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
     "/Users/batugkocak/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.11/microsoft.entityframeworkcore.analyzers.7.0.11.nupkg.sha512",

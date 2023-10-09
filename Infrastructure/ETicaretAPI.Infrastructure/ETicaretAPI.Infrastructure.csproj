@@ -10,4 +10,5 @@
       <ProjectReference Include="..\..\Core\ETicaretAPI.Application\ETicaretAPI.Application.csproj" />
     </ItemGroup>
 
+
 </Project>
